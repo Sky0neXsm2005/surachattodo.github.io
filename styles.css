@@ -44,11 +44,6 @@ button {
 button.add {
     background-color: #28a745;
     color: white;
-    transition: transform 0.3s ease-in-out;
-}
-
-button.add:hover {
-    transform: scale(1.2);
 }
 
 ul {
